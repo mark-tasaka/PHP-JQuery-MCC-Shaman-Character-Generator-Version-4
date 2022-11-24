@@ -131,10 +131,10 @@ body{
 
 #abilityScoreGeneration{
     position:absolute;
-    top: 1135px;
-    left: 685px;
+    top: 1125px;
+    left: 360px;
     font-size: 0.5em;
-    width: 240px;
+    width: 280px;
 }
 
 
@@ -373,11 +373,11 @@ body{
     font-size: 1.2em;
 }
 
-#naturalHealingPerDay
+#maxWetWareLevel
 {
     position:absolute;
     top: 520px;
-    left: 655px;
+    left: 685px;
     font-size: 1.2em;
 }
 
@@ -596,4 +596,106 @@ body{
     left: 585px;
     width: 330px;
 	font-size: 0.5em;
+}
+
+
+
+#patronAI
+{
+    position:absolute;
+    top: 754px;
+    left: 750px;
+    font-size: 0.8em;
+}
+
+#wetwarePrograms{
+    position:absolute;
+    top: 810px;
+    left: 680px;
+    font-size: 0.5em;
+    width: 250px;
+}
+
+
+#wetwarePrograms>.wetwareName{
+    position: absolute;
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+#wetwarePrograms>.wetwareRange{
+    position: absolute;
+    left: 100px;
+}
+
+#wetwarePrograms>.wetwarePage{
+    position: absolute;
+    left: 150px;
+}
+
+#wetwarePrograms>.wetwareActivation{
+    position: absolute;
+    left: 130px;
+}
+
+
+#wetwarePrograms2{
+    position:absolute;
+    top: 1340px;
+    left: 110px;
+    font-size: 0.5em;
+    width: 330px;
+}
+
+
+#wetwarePrograms2>.wetwareName2{
+    position: absolute;
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+#wetwarePrograms2>.wetwareRange2{
+    position: absolute;
+    left: 150px;
+}
+
+#wetwarePrograms2>.wetwarePage2{
+    position: absolute;
+    left: 150px;
+}
+
+#wetwarePrograms2>.wetwareActivation2{
+    position: absolute;
+    left: 150px;
+}
+
+
+#wetwarePrograms2b{
+    position:absolute;
+    top: 1340px;
+    left: 545px;
+    font-size: 0.5em;
+    width: 330px;
+}
+
+
+#wetwarePrograms2b>.wetwareName2{
+    position: absolute;
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+#wetwarePrograms2b>.wetwareRange2{
+    position: absolute;
+    left: 150px;
+}
+
+#wetwarePrograms2b>.wetwarePage2{
+    position: absolute;
+    left: 150px;
+}
+
+#wetwarePrograms2b>.wetwareActivation2{
+    position: absolute;
+    left: 150px;
 }
