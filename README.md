@@ -10,6 +10,18 @@ The two most notable differences between Version 3 and Version 4 of the MCC Sent
 
 -----------
 
+A live version of the Mutant Crawl Classics (MCC) Shaman Character Generator Version 4 is available at:
+
+https://www.oldschooladventures.org/mcc2/classes/shaman/
+
+-------------
+
+
+Update 1.01: 2022-11-23
+
+The completed iteration of the Shaman Character Generator Version 4 has been uploaded. As well, a link to the live version of the Shaman Character Generator Version 4 has been added to the Readme document.
+
+
 Initial commuit: 2022-11-21
 
 The initial commit for the Mutant Crawl Classics (MCC) Sentinel Character Generator Version 4.
